@@ -5,4 +5,4 @@ Agriculture is considered as import field all over the world where there are man
 System
 Machine learning is the latest technology which python programming language gives advantage in using various algorithms for crop yield prediction based on the input data set. In this process KNN classification algorithm is used for prediction. In this project testing training is performed on given text dataset which includes soil and temperature conditions as features and type of crop as labels
 
-Nitrogen,Phosophorus,potassium,temperature,humidity,rainfall are used to predict the crop.
+Nitrogen,Phosophorus,potassium,temperature,ph,humidity,rainfall are used to predict the crop.
